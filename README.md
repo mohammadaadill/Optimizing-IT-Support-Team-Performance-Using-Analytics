@@ -92,9 +92,5 @@ The project analyzes IT support ticket data to uncover patterns in ticket distri
 ## 🛠 Tools Used
 - **Power Query (Power BI):** Data cleaning (duplicates removed, categories standardized)  
 - **Power BI Desktop:** Dashboard creation and visualization  
-- **GitHub:** Documentation, version control, and project sharing  
-
----
-
-## 📂 Repository Structure
+- **GitHub:** Documentation, version control, and project sharing
 
