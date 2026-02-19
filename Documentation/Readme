@@ -1,0 +1,119 @@
+# Internship Learning Documentation
+
+## 📌 Core Concepts Covered
+
+### Categories of Data Analysis
+- **Descriptive Analysis** – Understanding what happened using historical data.  
+- **Diagnostic Thinking** – Identifying patterns, outliers, and performance gaps.  
+- **Exploratory Data Analysis (EDA)** – Understanding data structure before visualization.  
+
+👉 Key takeaway: Dashboards should not just display charts but should answer business questions.
+
+---
+
+### Types of Data
+- **Categorical Data** – Used for grouping (Priority, Assignment Group).  
+- **Numerical Data** – Used for calculations (Ticket counts, Severity levels).  
+- **Time-Based Data** – Used to analyze trends over months or days.  
+
+---
+
+## 🧹 Data Cleaning & Preparation
+
+### Python & Power Query
+Data cleaning was performed using both **Python (Pandas)** and **Power BI Power Query**.
+
+Key tasks included:
+- Handling missing values  
+- Removing duplicates  
+- Fixing incorrect formats  
+- Cleaning string values inside numeric columns  
+- Detecting and handling outliers  
+- Structuring datasets for analysis  
+
+Workflow followed: **Transfer → Clean → Visualize → Structure**
+
+---
+
+## 📊 Power BI Fundamentals
+
+### Three Main Views
+- **Report View** – Building visual dashboards.  
+- **Data View** – Inspecting tables and columns.  
+- **Model View** – Managing relationships and schema.  
+
+### Data Modeling Concepts
+- Fact Tables & Dimension Tables  
+- Star Schema & Snowflake Schema  
+- Primary Key & Foreign Key relationships  
+- One-to-Many and Many-to-One relationships  
+
+👉 Understanding data modeling improved DAX calculations and dashboard performance.
+
+---
+
+## 🎨 Data Visualization Principles
+Different charts were used depending on the data type:
+- **Bar Charts** → Category comparison with precision  
+- **Pie Charts** → Proportion visualization (used carefully)  
+- **Line Charts** → Time-based trends  
+- **KPI Cards** → Highlight key performance indicators  
+
+We also discussed when **NOT** to use certain charts to avoid misleading insights.
+
+---
+
+## 🧮 DAX & Measures
+DAX (Data Analysis Expressions) was introduced as the calculation engine of Power BI.
+
+Concepts covered:
+- Measures vs Columns  
+- CALCULATE function  
+- Conditional logic using IF  
+- KPI calculations  
+- Impact of data modeling on DAX queries  
+
+---
+
+## 🔎 Interactivity & Filtering
+Slicers were used to make dashboards dynamic and allow users to explore data through:
+- Priority filters  
+- Resolution categories  
+- Assignment group selection  
+
+---
+
+## 🌐 Live Data & Real-World Context
+The internship included discussions on:
+- Live data import challenges  
+- APIs and web data sources  
+- Zendesk ticketing workflows  
+- Dummy vs Synthetic data  
+- Power BI Premium concepts  
+
+---
+
+## 💡 Personal Learning & Improvement
+Throughout the internship, significant improvement was made in:
+- Power Query transformations  
+- Power BI modeling  
+- Dashboard storytelling  
+- Structuring GitHub repositories  
+- Converting raw data into analytical insights  
+
+---
+
+## 🛠 Tools & Technologies Covered
+- Power BI  
+- Power Query  
+- Python  
+- Pandas  
+- GitHub  
+- Jupyter Notebook  
+
+---
+
+## 📌 Summary
+This internship provided hands-on experience in transforming raw IT support data into a structured analytical solution.  
+The focus was not only on creating dashboards but also on understanding **data modeling, visualization best practices, and real-world analytics workflows**.
+
